@@ -18,6 +18,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kiranmai1226/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/kiranmai1226/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/kiranmai1226/Leetcode/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/kiranmai1226/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/kiranmai1226/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/kiranmai1226/Leetcode/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kiranmai1226/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/kiranmai1226/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Math
