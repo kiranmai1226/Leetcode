@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/kiranmai1226/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/kiranmai1226/Leetcode/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/kiranmai1226/Leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/kiranmai1226/Leetcode/tree/master/0075-sort-colors) |
 | [0219-contains-duplicate-ii](https://github.com/kiranmai1226/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/kiranmai1226/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/kiranmai1226/Leetcode/tree/master/0283-move-zeroes) |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kiranmai1226/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/kiranmai1226/Leetcode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/kiranmai1226/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/kiranmai1226/Leetcode/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/kiranmai1226/Leetcode/tree/master/0443-string-compression) |
@@ -77,5 +79,6 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/kiranmai1226/Leetcode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/kiranmai1226/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
