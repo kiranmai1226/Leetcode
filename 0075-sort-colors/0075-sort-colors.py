@@ -4,13 +4,16 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        count=[0,0,0]
-        for i in nums:
-            count[i]+=1
-        index=0
-        for i in range(3):
-            for _ in range(count[i]):
-                nums[index]=i
-                index+=1
+        low,mid,high=0,0,len(nums)-1
+        while mid<=high:
+            if nums[mid] == 0:
+                nums[low],nums[mid]=nums[mid],nums[low]
+                low+=1
+                mid+=1
+            elif nums[mid]==1:
+                nums[mid]=1
+                mid+=1
+            else:
+                nums[high],nums[mid]=nums[mid],nums[high]
+                high-=1
         return nums
-        
