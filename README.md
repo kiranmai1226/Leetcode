@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kiranmai1226/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/kiranmai1226/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/kiranmai1226/Leetcode/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/kiranmai1226/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/kiranmai1226/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/kiranmai1226/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/kiranmai1226/Leetcode/tree/master/0169-majority-element) |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kiranmai1226/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/kiranmai1226/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/kiranmai1226/Leetcode/tree/master/0169-majority-element) |
 ## String
 |  |
@@ -86,4 +88,8 @@
 | [0075-sort-colors](https://github.com/kiranmai1226/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/kiranmai1226/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kiranmai1226/Leetcode/tree/master/0242-valid-anagram) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/kiranmai1226/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
