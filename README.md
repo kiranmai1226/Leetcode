@@ -13,6 +13,7 @@
 | [0048-rotate-image](https://github.com/kiranmai1226/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kiranmai1226/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/kiranmai1226/Leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/kiranmai1226/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/kiranmai1226/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kiranmai1226/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/kiranmai1226/Leetcode/tree/master/0169-majority-element) |
@@ -28,6 +29,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/kiranmai1226/Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/kiranmai1226/Leetcode/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/kiranmai1226/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/kiranmai1226/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/kiranmai1226/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/kiranmai1226/Leetcode/tree/master/0242-valid-anagram) |
@@ -108,4 +110,5 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kiranmai1226/Leetcode/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/kiranmai1226/Leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
