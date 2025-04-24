@@ -10,6 +10,7 @@
 | [0031-next-permutation](https://github.com/kiranmai1226/Leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/kiranmai1226/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/kiranmai1226/Leetcode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/kiranmai1226/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kiranmai1226/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/kiranmai1226/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/kiranmai1226/Leetcode/tree/master/0075-sort-colors) |
@@ -66,6 +67,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kiranmai1226/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/kiranmai1226/Leetcode/tree/master/0066-plus-one) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kiranmai1226/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/kiranmai1226/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -102,4 +104,8 @@
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kiranmai1226/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/kiranmai1226/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
