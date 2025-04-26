@@ -23,6 +23,7 @@
 | [0283-move-zeroes](https://github.com/kiranmai1226/Leetcode/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/kiranmai1226/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kiranmai1226/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/kiranmai1226/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kiranmai1226/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/kiranmai1226/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Hash Table
@@ -49,6 +50,7 @@
 | [0283-move-zeroes](https://github.com/kiranmai1226/Leetcode/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/kiranmai1226/Leetcode/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/kiranmai1226/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/kiranmai1226/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kiranmai1226/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -75,6 +77,7 @@
 | [1894-merge-strings-alternately](https://github.com/kiranmai1226/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kiranmai1226/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/kiranmai1226/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/kiranmai1226/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 ## Math
 |  |
 | ------- |
