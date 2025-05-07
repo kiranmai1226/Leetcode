@@ -1,7 +1,7 @@
 from collections import defaultdict
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        seen={}
+        seen=defaultdict(int)
         start=0
         result=0
         for i in range(len(s)):
