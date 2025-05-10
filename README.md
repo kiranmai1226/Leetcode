@@ -52,6 +52,7 @@
 | [0443-string-compression](https://github.com/kiranmai1226/Leetcode/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/kiranmai1226/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/kiranmai1226/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2128-reverse-prefix-of-word](https://github.com/kiranmai1226/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kiranmai1226/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -80,6 +81,7 @@
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kiranmai1226/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/kiranmai1226/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/kiranmai1226/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2128-reverse-prefix-of-word](https://github.com/kiranmai1226/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Math
 |  |
 | ------- |
@@ -136,4 +138,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kiranmai1226/Leetcode/tree/master/0020-valid-parentheses) |
+| [2128-reverse-prefix-of-word](https://github.com/kiranmai1226/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
