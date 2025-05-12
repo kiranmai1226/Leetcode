@@ -25,6 +25,7 @@
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kiranmai1226/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/kiranmai1226/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kiranmai1226/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2107-find-unique-binary-string](https://github.com/kiranmai1226/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kiranmai1226/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/kiranmai1226/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Hash Table
@@ -41,6 +42,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/kiranmai1226/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/kiranmai1226/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kiranmai1226/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2107-find-unique-binary-string](https://github.com/kiranmai1226/Leetcode/tree/master/2107-find-unique-binary-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,6 +85,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/kiranmai1226/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/kiranmai1226/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kiranmai1226/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2107-find-unique-binary-string](https://github.com/kiranmai1226/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2128-reverse-prefix-of-word](https://github.com/kiranmai1226/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Math
 |  |
@@ -141,4 +144,8 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/kiranmai1226/Leetcode/tree/master/0020-valid-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/kiranmai1226/Leetcode/tree/master/2128-reverse-prefix-of-word) |
+## Backtracking
+|  |
+| ------- |
+| [2107-find-unique-binary-string](https://github.com/kiranmai1226/Leetcode/tree/master/2107-find-unique-binary-string) |
 <!---LeetCode Topics End-->
