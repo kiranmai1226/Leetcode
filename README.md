@@ -27,6 +27,7 @@
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kiranmai1226/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2107-find-unique-binary-string](https://github.com/kiranmai1226/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/kiranmai1226/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/kiranmai1226/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kiranmai1226/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kiranmai1226/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/kiranmai1226/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -45,6 +46,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/kiranmai1226/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kiranmai1226/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2107-find-unique-binary-string](https://github.com/kiranmai1226/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/kiranmai1226/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,6 +93,7 @@
 | [2107-find-unique-binary-string](https://github.com/kiranmai1226/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/kiranmai1226/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2128-reverse-prefix-of-word](https://github.com/kiranmai1226/Leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/kiranmai1226/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kiranmai1226/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Math
 |  |
@@ -120,6 +123,7 @@
 | [0169-majority-element](https://github.com/kiranmai1226/Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/kiranmai1226/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kiranmai1226/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/kiranmai1226/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 ## Sorting
 |  |
 | ------- |
