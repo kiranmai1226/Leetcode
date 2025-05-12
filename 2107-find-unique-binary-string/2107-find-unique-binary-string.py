@@ -3,8 +3,5 @@ class Solution:
         length=len(nums[0])
         binary=[]
         for i in range(2**length):
-            binary.append(format(i,f'0{length}b'))
-
-        for i in binary:
-            if i not in nums:
-                return i
+            if format(i,f'0{length}b') not in nums:
+                return format(i,f'0{length}b')
