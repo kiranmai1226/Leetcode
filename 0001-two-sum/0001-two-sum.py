@@ -1,10 +1,10 @@
-from collections import defaultdict
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        my_dict=defaultdict(int)
-        for i,num in enumerate(nums):
-            
-            difference=target-num
-            if difference in my_dict:
-                return [i,my_dict[difference]]
-            my_dict[num]=i
+        for i in range(len(nums)-1):
+            temp = target-nums[i]
+            for j in range(i+1,len(nums)):
+                if temp == nums[j]:
+                    return [i,j]
+
+   
+        
