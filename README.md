@@ -18,6 +18,7 @@
 | [0075-sort-colors](https://github.com/kiranmai1226/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kiranmai1226/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/kiranmai1226/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/kiranmai1226/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kiranmai1226/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/kiranmai1226/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/kiranmai1226/Leetcode/tree/master/0283-move-zeroes) |
@@ -40,6 +41,7 @@
 | [0041-first-missing-positive](https://github.com/kiranmai1226/Leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/kiranmai1226/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/kiranmai1226/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/kiranmai1226/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kiranmai1226/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/kiranmai1226/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/kiranmai1226/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -129,6 +131,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/kiranmai1226/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/kiranmai1226/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/kiranmai1226/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kiranmai1226/Leetcode/tree/master/0242-valid-anagram) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/kiranmai1226/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Dynamic Programming
