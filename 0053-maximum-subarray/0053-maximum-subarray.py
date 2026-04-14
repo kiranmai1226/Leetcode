@@ -1,15 +1,14 @@
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
-        maxi=-65535
-        sum_1=0
-        for i in nums:
-            sum_1+=i
-            if sum_1>maxi:
-                maxi=sum_1
-            if sum_1<0:
-                sum_1=0
-        return maxi
-            
+        current_sum = 0
+        max_sum = nums[0]
+        for num in nums:
+            current_sum += num
+            if current_sum > max_sum:
+                max_sum = current_sum
+            if current_sum < 0:
+                current_sum = 0
+        return max_sum
+                
 
-            
         
