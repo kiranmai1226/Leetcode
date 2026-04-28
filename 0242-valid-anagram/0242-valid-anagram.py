@@ -1,10 +1,20 @@
-from collections import defaultdict
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        mydict1=defaultdict(int)
-        mydict2=defaultdict(int)
-        for i in s:
-            mydict1[i]+=1
-        for i in t:
-            mydict2[i]+=1
-        return mydict1==mydict2
+        if len(s) != len(t):
+            return False
+        count = {}
+        for i,num in enumerate(s):
+            if num in count:
+                count[num] += 1
+            else:
+                count[num] = 1
+        for i,char in enumerate(t):
+            if char not in count:
+                return False
+            count[char] -= 1
+            if count[char] == 0:
+                del count[char]
+        if not count:
+            return True
+
+        
