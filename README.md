@@ -23,6 +23,7 @@
 | [0219-contains-duplicate-ii](https://github.com/kiranmai1226/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/kiranmai1226/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/kiranmai1226/Leetcode/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/kiranmai1226/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/kiranmai1226/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kiranmai1226/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/kiranmai1226/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -46,6 +47,7 @@
 | [0217-contains-duplicate](https://github.com/kiranmai1226/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kiranmai1226/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/kiranmai1226/Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/kiranmai1226/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/kiranmai1226/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/kiranmai1226/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kiranmai1226/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -76,6 +78,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/kiranmai1226/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/kiranmai1226/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/kiranmai1226/Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/kiranmai1226/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/kiranmai1226/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## String
 |  |
@@ -126,6 +129,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kiranmai1226/Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/kiranmai1226/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/kiranmai1226/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kiranmai1226/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/kiranmai1226/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -137,6 +141,7 @@
 | [0169-majority-element](https://github.com/kiranmai1226/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kiranmai1226/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kiranmai1226/Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/kiranmai1226/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/kiranmai1226/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Dynamic Programming
 |  |
@@ -169,9 +174,15 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/kiranmai1226/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/kiranmai1226/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/kiranmai1226/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/kiranmai1226/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kiranmai1226/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
