@@ -60,6 +60,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kiranmai1226/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/kiranmai1226/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/kiranmai1226/Leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/kiranmai1226/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kiranmai1226/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/kiranmai1226/Leetcode/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/kiranmai1226/Leetcode/tree/master/0443-string-compression) |
@@ -89,6 +90,7 @@
 | [0013-roman-to-integer](https://github.com/kiranmai1226/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/kiranmai1226/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/kiranmai1226/Leetcode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/kiranmai1226/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kiranmai1226/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/kiranmai1226/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/kiranmai1226/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
