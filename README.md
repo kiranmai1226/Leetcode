@@ -24,6 +24,7 @@
 | [0238-product-of-array-except-self](https://github.com/kiranmai1226/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/kiranmai1226/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/kiranmai1226/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/kiranmai1226/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/kiranmai1226/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kiranmai1226/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/kiranmai1226/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -48,6 +49,7 @@
 | [0219-contains-duplicate-ii](https://github.com/kiranmai1226/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/kiranmai1226/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/kiranmai1226/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/kiranmai1226/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/kiranmai1226/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/kiranmai1226/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kiranmai1226/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -63,6 +65,7 @@
 | [0125-valid-palindrome](https://github.com/kiranmai1226/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kiranmai1226/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/kiranmai1226/Leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/kiranmai1226/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/kiranmai1226/Leetcode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/kiranmai1226/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1894-merge-strings-alternately](https://github.com/kiranmai1226/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -74,6 +77,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kiranmai1226/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/kiranmai1226/Leetcode/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/kiranmai1226/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -146,6 +150,7 @@
 | [0217-contains-duplicate](https://github.com/kiranmai1226/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kiranmai1226/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/kiranmai1226/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/kiranmai1226/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/kiranmai1226/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Dynamic Programming
 |  |
