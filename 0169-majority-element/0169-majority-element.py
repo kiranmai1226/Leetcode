@@ -3,5 +3,5 @@ class Solution:
         count = defaultdict(int)
         for i in nums:
             count[i] += 1
-        return sorted(count, key = count.get, reverse = True)[0]
-        
+            if count[i] > (len(nums)//2):
+                return i
