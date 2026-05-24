@@ -1,13 +1,14 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        count = defaultdict(int)
         if len(s) != len(t):
             return False
-        for i in s:
-            count[i] += 1
-        for i in t:
-            if i in count:
-                count[i] -= 1
-                if count[i] == 0:
-                    del count[i]
-        return count == {}
+        arr = [0]*26
+        for i in range(len(s)):
+            if s[i] not in arr:
+                arr[ord(s[i]) - ord('a')] += 1
+            if t[i] not in arr:
+                arr[ord(t[i]) - ord('a')] -= 1
+        if not any(arr):
+            return True
+        else:
+            return False
