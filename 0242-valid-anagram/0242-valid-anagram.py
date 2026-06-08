@@ -1,5 +1,8 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        s1 = sorted(s)
-        s2 = sorted(t)
-        return s1 == s2
+        arr = [0] * 26
+        for i in s:
+            arr[ord(i) - ord('a')] += 1
+        for i in t:
+            arr[ord(i) - ord('a')] -= 1
+        return not any(arr)
